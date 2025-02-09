@@ -7,6 +7,11 @@ The Seattle Airbnb Analysis Dashboard is a comprehensive project aimed at analyz
 This dashboard presents a clear and concise overview of the Airbnb market in Seattle, helping stakeholders understand pricing trends, room availability, customer preferences, and neighborhood performance.
 
 ---
+## Dashboard Preview
+
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/SQL-Projects/blob/main/Seattle%20Airbnb%20Data%20Analysis/seattle%20airbnb.png)
+
+---
 
 ## **Data Source**
 
