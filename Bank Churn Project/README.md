@@ -8,7 +8,8 @@ This repository contains the Banking Churn Analysis project, designed to underst
 
 ## Dashboard Preview
 
-Below is a snapshot of the interactive dashboard: https://github.com/CodeVistaPro/SQL-Projects/blob/main/Bank%20Churn%20Project/Banking%20Churn%20Analysis.png
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/SQL-Projects/blob/main/Bank%20Churn%20Project/Banking%20Churn%20Analysis.png))
+
 
 
 
