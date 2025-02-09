@@ -2,5 +2,5 @@
 [Download the dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
 
 ## 📂 Cleaned Dataset
-[Download the dataset](https://archive.ics.uci.edu/dataset/502/online+retail+ii)
-
+[Download the dataset](https://drive.google.com/file/d/1JKXk5k8kOZhHLq3GQ3YE6lyR74xSORP9/view?usp=sharing)
+(https://drive.google.com/file/d/1xTrTlHaMK83s5KDinVg1rjMviFKqLFJR/view?usp=sharing)
