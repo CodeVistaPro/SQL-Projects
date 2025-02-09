@@ -2,19 +2,6 @@
 
 This project focuses on analyzing retail sales data to uncover meaningful insights through visualizations and key performance indicators (KPIs). The analysis was conducted using data loaded from SQL through an ODBC connection, and the final visualizations and dashboard were created in Excel.
 
-## **Table of Contents**
-
-1. [Project Overview](#project-overview)
-2. [Steps Undertaken](#steps-undertaken)
-   - [Data Loading](#1%EF%B8%8F%E2%83%A3-data-loading)
-   - [Data Preparation](#2%EF%B8%8F%E2%83%A3-data-preparation)
-   - [Key Performance Indicators (KPIs)](#3%EF%B8%8F%E2%83%A3-key-performance-indicators-kpis)
-   - [Visualizations](#4%EF%B8%8F%E2%83%A3-visualizations)
-3. [Dashboard Design](#5%EF%B8%8F%E2%83%A3-dashboard-design)
-4. [Limitations](#6%EF%B8%8F%E2%83%A3-limitations)
-5. [Key Learnings](#7%EF%B8%8F%E2%83%A3-key-learnings)
-6. [Tools Used](#8%EF%B8%8F%E2%83%A3-tools-used)
-
 ## **Project Overview**
 
 The primary objective of this project was to:
@@ -24,6 +11,12 @@ The primary objective of this project was to:
 - Use SQL queries for data preparation and extract actionable insights.
 - Export the SQL results as a CSV and visualize them in Excel.
 
+  
+## Dashboard Preview
+
+Below is a snapshot of the interactive dashboard: ![Banking Churn Dashboard](https://github.com/CodeVistaPro/SQL-Projects/blob/main/Retail%20Sales%20Analysis/retail%20sales%20analysis.png)
+
+---
 ## **Steps Undertaken**
 
 ### **1️⃣ Data Loading**
