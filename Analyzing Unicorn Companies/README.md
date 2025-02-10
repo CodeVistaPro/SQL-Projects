@@ -1,4 +1,4 @@
-# Unicorn Companies Dashboard Project - README
+# Unicorn Companies Dashboard Project 
 
 ## Project Overview
 This project involves building a comprehensive **Unicorn Companies Dashboard** using SQL for data querying and Power BI for visualization. The dashboard provides insights into unicorn companies' valuations, countries, industries, and trends. Below are the details of the process, including the SQL queries used and the steps taken to build the dashboard.
